@@ -1,1 +1,4 @@
 sentencepiece==0.2.0
+torch
+transformers
+protobuf==5.29.3
